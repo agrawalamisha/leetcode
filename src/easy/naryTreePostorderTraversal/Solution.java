@@ -16,14 +16,15 @@ public class Solution {
     }
 
     public List<Integer> postorder(Node root) {
-        List <Integer> ans = new ArrayList<>();
-        if (root == null) return ans;
+        List <Integer> ans1 = new ArrayList<>();
+        if (root == null) return ans1;
         for (Node val : root.children) {
-            ans.addAll(postorder(val));
+            ans1.addAll(postorder(val));
         }
-        ans.add(root.val);
-        return ans;
+        ans1.add(root.val);
+        return ans1;
     }
+
     public static void main(String[] args) {
         Node n1 = new Node(5);
         Node n2 = new Node(6);
