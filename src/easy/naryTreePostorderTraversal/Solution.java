@@ -5,16 +5,24 @@ import java.util.List;
 
 public class Solution {
     List <Integer> ans = new ArrayList<>();
+<<<<<<< HEAD
     public List<Integer> postorder2(Node root) {
         if (root.children != null) {
             for (Node val : root.children) {
                 return postorder2(val);
+=======
+    public List<Integer> postorder(Node root) {
+        if (root.children != null) {
+            for (Node val : root.children) {
+                return postorder(val);
+>>>>>>> 4727ba8ea448ec78dcd8f94f152c10bbe3064b05
             }
         }
         ans.add(root.val);
         return ans;
     }
 
+<<<<<<< HEAD
     public List<Integer> postorder(Node root) {
         List <Integer> ans1 = new ArrayList<>();
         if (root == null) return ans1;
@@ -25,6 +33,8 @@ public class Solution {
         return ans1;
     }
 
+=======
+>>>>>>> 4727ba8ea448ec78dcd8f94f152c10bbe3064b05
     public static void main(String[] args) {
         Node n1 = new Node(5);
         Node n2 = new Node(6);
