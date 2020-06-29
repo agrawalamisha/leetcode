@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="265d9bef-243f-4e0a-a492-dd360df09af0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../src/dp/factorials/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/easy/arrayIntersection/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/easy/mergeSortedLists/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/easy/mergeSortedLists/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/easy/mostCommonWord/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/easy/moveZeroes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/easy/palindrome/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/easy/plusOne/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/easy/reorderLogFiles/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/easy/reverseInteger/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/easy/rotateArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/easy/singleNumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/easy/validParenthesis/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/addTwoNumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/arrayProductExceptSelf/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/atoi/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/countAndSay/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/groupAnagrams/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/groupAnagrams/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/insertDelRandomO1/RandomizedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/intervalListIntersection/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/letterCombinationPhone/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/letterCombinationPhone/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/longSubstrNoRepeat/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/maxLenPalindrome/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/mergeIntervals/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/remDup/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/rotate2dImage/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/rotateList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/sortColours/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/twoNumSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/validSudoku/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/zigzagLevelOrderTraversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../src/medium/zigzagLevelOrderTraversal/TreeNode.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1X6JWULagLAEHJmRLhvd844zDbu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="265d9bef-243f-4e0a-a492-dd360df09af0" name="Default Changelist" comment="" />
+      <created>1580360643033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580360643033</updated>
+      <workItem from="1580360644408" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
